@@ -3,7 +3,7 @@
     "name": "linjw"
   },
   "bugs": {
-    "url": "https://github.com/mrlinjw/react-native-calendars/issues"
+    "url": "https://github.com/alwayalive/react-native-calendars/issues"
   },
   "description": "React Native Calendar Components",
     "dependencies": {
@@ -18,14 +18,14 @@
     "react": "16.0.0-alpha.6",
     "react-native": "0.44.0"
   },
-  "homepage": "https://github.com/mrlinjw/react-native-calendars#readme",
+  "homepage": "https://github.com/alwayalive/react-native-calendars#readme",
   "license": "MIT",
   "main": "src/index.js",
   "name": "react-native-calendars",
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrlinjw/react-native-calendars.git"
+    "url": "git+https://github.com/alwayalive/react-native-calendars.git"
   },
   "scripts": {
     "lint": "eslint src/ example/src",
